@@ -63,8 +63,11 @@ These columns allowed me to enrich the dataset and prepare it for deeper analysi
 #### **Which Lead Origin Generates the Most Leads?**  
 I created a pivot table and chart to analyze lead origins.  
 - The **Conversion Rate** column showed the efficiency of each origin.  
-- Top converting source? **Unknown (17%)**, followed by **Paid Search** and **Organic Search (12%)**.
+- The top conversion rate was 17% with the origin being unknown. The next top converting sources were **Paid Search** and **Organic Search with a conversion rate of 12%**.
 - To make the data more digestible, I visualized it using a clean chart.
+
+
+![Lead Origin DV](data-viz-GSM-funnel-analysis/mql-by-origin-GSM.png "Lead Origins")
 
 ---
 
@@ -73,6 +76,9 @@ I used pivot tables to track MLQs (Marketing Qualified Leads) by origin, month-o
 - A stacked column chart highlighted the growth in MLQs.  
 - Paid and Organic Search emerged as the top-performing origins, confirming the company is on the right track.
 
+
+![MoM Dv](data-viz-GSM-funnel-analysis/mql-mom-by-origin-GSM.png "MoM")
+
 ---
 
 #### **How Long Does It Take to Close a Deal?**  
@@ -80,6 +86,9 @@ Using the **Days to Close** column, I:
 - Created a pivot table to calculate the average days to close, segmented by the month contacted.  
 - Visualized it with a column chart to reveal:  
   - The time to close is decreasing over time, showing improved efficiency in sales.
+ 
+
+![Avg Days Closed Dv](data-viz-GSM-funnel-analysis/avg-days-to-close-GSM.png "ADC")
 
 ---
 
@@ -90,7 +99,12 @@ I analyzed **Closed Deal Data** to identify:
 2. **Top Business Segments:**  
    - Outdoor home products  
    - Outdoor safety and health products  
-   - Car accessories  
+   - Car accessories
+  
+
+![Closed Deal DV](data-viz-GSM-funnel-analysis/closed-deal-by-lead-type-GSM.png "CD Segment")
+![Closed Deal DV](data-viz-GSM-funnel-analysis/closed-deals-by-segment-GSM.png "CD LeadType")
+
 
 ---
 
@@ -100,9 +114,9 @@ I analyzed **Closed Deal Data** to identify:
 🕒 Sales are becoming faster and more efficient.  
 🎯 Top lead types target online-medium platforms.  
 🏆 The company’s top-performing segments are:  
-  - **Outdoor Home Products**: Patio furniture, garden tools, weather protection, etc.  
-  - **Outdoor Safety & Health Products**: First aid kits, protective gear, health monitors.  
-  - **Car Accessories**: Roof racks, dash cams, emergency kits.  
+  - **Outdoor Home Products**: Apparel and gear storage, outdoor lighting, weather protection, etc.  
+  - **Outdoor Safety & Health Products**: First aid kits, protective gear, health monitors, etc.  
+  - **Car Accessories**: Roof racks, dash cams, emergency kits, etc.  
 
 ---
 
@@ -113,7 +127,7 @@ I analyzed **Closed Deal Data** to identify:
    - Use insights to strategize email campaigns and promotions for our best-performing segments.  
 3. **Keep Streamlining Sales:**  
    - Continue optimizing processes to reduce time-to-close metrics.
-4. ** Next steps:**
+4. **Next steps:**
    - I'd recommend diving into that unknown top converting source we discovered during analysis to identify the source and leverage it for more success. 
 
 ---
