@@ -114,6 +114,6 @@ I analyzed **Closed Deal Data** to identify:
 3. **Keep Streamlining Sales:**  
    - Continue optimizing processes to reduce time-to-close metrics.
 4. ** Next steps:**
-   - I'd recommend diving into the unknown Lead Origin Source we discovered during analysis to identify the source and leverage it for more contact to closed success.
+   - I'd recommend diving into that unknown top converting source we discovered during analysis to identify the source and leverage it for more success. 
 
 ---
